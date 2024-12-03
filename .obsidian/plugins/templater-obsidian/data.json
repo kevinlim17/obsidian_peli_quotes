@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Computer Science",
+      "folder": "",
       "template": "Template/Template - Computer Science.md"
     }
   ],

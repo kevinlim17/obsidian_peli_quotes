@@ -1,9 +1,40 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "5e13c105-0aeb-49d1-aa00-eb465c311718",
+      "name": "Template - UI 명세서",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/UI Specification.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Specifications"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "Templates",
   "announceUpdates": true,
   "version": "1.11.5",
   "disableOnlineFeatures": true,

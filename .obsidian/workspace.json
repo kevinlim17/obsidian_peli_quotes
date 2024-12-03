@@ -4,21 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "12772418cdb55915",
+        "id": "739908dcc235ca14",
         "type": "tabs",
         "children": [
           {
-            "id": "b92ef4243a0967b5",
+            "id": "aad4c42f2aeda155",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Storyboard.canvas",
+                "viewState": {
+                  "x": 840.2439279953127,
+                  "y": 434.45896388268727,
+                  "zoom": -1.4260911301771806
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Storyboard"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d80abe2c96ae1e5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "995e3e4116de200e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peli-Quotes.md",
+                "file": "Specifications/Splash Screen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peli-Quotes"
+              "title": "Splash Screen"
             }
           }
         ]
@@ -95,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3f7a5a41c7c464a7",
@@ -156,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peli-Quotes.md"
+                "file": "Specifications/Splash Screen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Peli-Quotes"
+              "title": "Outline of Splash Screen"
             }
           },
           {
@@ -194,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,11 +235,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e507674efa8dfd3d",
+  "active": "aad4c42f2aeda155",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Peli-Quotes.md",
+    "Specifications/Splash Screen.md",
+    "Storyboard.canvas",
     "Templates/UI Specification.md",
+    "Splash Screen.md",
+    "Peli-Quotes.md",
     "Images",
     "Pasted image 20241203145030.png",
     "Pasted image 20241203145021.png",
