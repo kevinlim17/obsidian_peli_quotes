@@ -12,6 +12,45 @@
       "injectColor": true,
       "noTitle": false,
       "copy": true
+    },
+    "code": {
+      "type": "code",
+      "color": "138, 170, 245",
+      "icon": {
+        "name": "code",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Code",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "kotlin": {
+      "type": "kotlin",
+      "color": "151, 120, 176",
+      "icon": {
+        "name": "korvue",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Kotlin",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "swift": {
+      "type": "swift",
+      "color": "205, 76, 76",
+      "icon": {
+        "name": "swift",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Swift",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
     }
   },
   "syntaxHighlight": false,

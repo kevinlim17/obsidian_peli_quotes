@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiDatabase",
-      "LiTreePine",
-      "LiPen",
-      "LiBookTemplate",
-      "RiAndroidFill"
+      "LiBookImage",
+      "LiSmartphoneCharging",
+      "⚠",
+      "RiBriefcase3Line",
+      "LiBird"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,10 @@
   "Books": "LiBookMinus",
   "Android & KMP": "RiAndroidFill",
   "Templates": "LiBookTemplate",
-  "Readbase.md": "LiDatabase"
+  "Readbase.md": "LiDatabase",
+  "Peli-Quotes.md": "LiBird",
+  "References": "RiBriefcase3Line",
+  "Obstacles": "⚠",
+  "Specifications": "LiSmartphoneCharging",
+  "Images": "LiBookImage"
 }

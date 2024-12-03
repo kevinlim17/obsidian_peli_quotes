@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peli-Quotes Vault.md",
+                "file": "Peli-Quotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peli-Quotes Vault"
+              "title": "Peli-Quotes"
             }
           }
         ]
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peli-Quotes Vault.md"
+                "file": "Peli-Quotes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Peli-Quotes Vault"
+              "title": "Outline of Peli-Quotes"
             }
           },
           {
@@ -212,8 +212,18 @@
   },
   "active": "e507674efa8dfd3d",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
     "Untitled.canvas",
+    "Peli-Quotes.md",
+    "Templates/UI Specification.md",
+    "Images",
+    "Pasted image 20241203145030.png",
+    "Pasted image 20241203145021.png",
+    "Specifications",
+    "Obstacles",
+    "References",
+    "Templates/Untitled",
+    "Templates",
+    "Untitled 1.canvas",
     "2024-12-02.md",
     "Computer Science/Compiler - Parser.md",
     "Kotlin/Untitled.md",
@@ -234,13 +244,8 @@
     "Computer Science/Untitled 1.md",
     "Computer Science/Template/Untitled",
     "Templates",
-    "Android & KMP",
-    "Kotlin",
-    "Computer Science",
-    "Soople",
     "2024-11-27.md",
     "Books/MMCA 현대차 시리즈 2021 문경원전준호：미지에서 온 소식 자유의 마을.md",
-    "Books",
     "Untitled 1.md",
     "2024-11-19.md"
   ]
