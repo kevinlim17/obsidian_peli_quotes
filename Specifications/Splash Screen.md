@@ -30,16 +30,19 @@
 >
 
 ## Requirements
+
 - 예시 ) Splash Screen 구현
 - 예시 ) Camera API Lifecycle 관리하기
 
 
 ## Technical Obstacles
+
 - Github Issue 링크를 가져온다든지
 - 아니면 따로 작성한 마크다운을 가져온다든지
 
 
 ## Next Screen
+
 - 링크 기능 활용해 다음 화면과 연결
 - [[]]
 

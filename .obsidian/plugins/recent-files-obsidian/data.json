@@ -9,6 +9,10 @@
       "path": "Storyboard.canvas"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "UI Specification",
       "path": "Templates/UI Specification.md"
     },

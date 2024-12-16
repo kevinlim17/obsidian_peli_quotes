@@ -8,29 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aad4c42f2aeda155",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Storyboard.canvas",
-                "viewState": {
-                  "x": 840.2439279953127,
-                  "y": 434.45896388268727,
-                  "zoom": -1.4260911301771806
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Storyboard"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d80abe2c96ae1e5b",
-        "type": "tabs",
-        "children": [
-          {
             "id": "995e3e4116de200e",
             "type": "leaf",
             "state": {
@@ -213,13 +190,30 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "aad4c42f2aeda155",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Storyboard.canvas",
+                "viewState": {
+                  "x": 477.4568458052126,
+                  "y": 324.50082454650806,
+                  "zoom": -1.363598968933027
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Storyboard"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,10 +229,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aad4c42f2aeda155",
+  "active": "995e3e4116de200e",
   "lastOpenFiles": [
-    "Specifications/Splash Screen.md",
     "Storyboard.canvas",
+    "README.md",
+    "Specifications/Splash Screen.md",
     "Templates/UI Specification.md",
     "Splash Screen.md",
     "Peli-Quotes.md",
@@ -263,7 +258,6 @@
     "Books/소크라테스 익스프레스 철학이 우리 인생에 스며드는 순간.md",
     "Books/지속의 순간들.md",
     "Books/언오소독스 밖으로 나온 아이：뉴욕의 초정통파 유대인 공동체를 탈출하다.md",
-    "Untitled.md",
     "Excalidraw/Drawing 2024-11-30 14.58.11.excalidraw.md",
     "Excalidraw",
     "Peli-Quotes",
